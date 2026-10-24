@@ -14,6 +14,6 @@
 
 - 🎮 Passionné de réalité virtuelle : Beat Saber, VRChat et tout ce qui se joue casque sur la tête.
 - 💡 J'imagine des outils qui rendent la VR plus simple, et je les réalise avec l'aide de l'IA Claude.
-- 🌙 Projet actuel : **LunaQuest**, en accès anticipé (version 0.2.0).
+- 🌙 Projet actuel : **LunaQuest**, en accès anticipé (version 0.3.0, avec le suivi du corps entier FBE).
 
 <p align="center"><img src="https://raw.githubusercontent.com/lunaquestld/LunaQuest/main/site/img/connexion.png" width="640" alt="LunaQuest"></p>
